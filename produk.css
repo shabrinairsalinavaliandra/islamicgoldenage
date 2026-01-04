@@ -260,7 +260,7 @@ footer {
     padding-bottom:2px;
     background-color:#C96868;
     margin: 0;
-    width: 500px;
+    width: 100%;
 }
 
 .footer {
@@ -298,5 +298,6 @@ footer website{
   color: white;
 
 }
+
 
 
