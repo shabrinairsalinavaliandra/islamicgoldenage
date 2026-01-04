@@ -256,7 +256,7 @@ nav ul li a {
 
 footer {
     text-align: center;
-    padding: 50px;
+    padding: 30px; 
     padding-bottom:2px;
     background-color:#C96868;
     margin: 0;
@@ -295,4 +295,5 @@ footer website{
 .fa-youtube {
   background: #55ACEE;
   color: white;
+
 }
