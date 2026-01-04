@@ -57,7 +57,7 @@ nav ul li a {
 }
 
 .slider-images img {
-    width: 600px;
+    width: 700px;
 }
 
 .slider-buttons {
@@ -260,6 +260,7 @@ footer {
     padding-bottom:2px;
     background-color:#C96868;
     margin: 0;
+    width: 1500px;
 }
 
 .footer {
@@ -297,3 +298,4 @@ footer website{
   color: white;
 
 }
+
